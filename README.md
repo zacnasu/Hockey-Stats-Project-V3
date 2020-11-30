@@ -1,4 +1,4 @@
-# Wolves-Stats-Project-V3
+# Hockey-Stats-Project-V3
 
 This was a project created to help automate taking hockey stats. It tracks stats shift by shift and counts shots on goal, shots, missed shots, and scoring Opportunities.
 
